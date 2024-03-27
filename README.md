@@ -1,4 +1,1 @@
-Hello I'm Nick Austen. Currently a
-Computer Science student enrolled with UMGC.
-This will be where I post personal projects
-in Java, Python, C, and C++.
+This is a shape selector program I made in Java for a college class. It utilizes GUI inputs to select whether a user wants to work with a 2d shape or 3d shape, then gives the user a choice of shapes. From there, a user inputs the values to calculate the area (for a 2d shape) or volume (for a 3d shape). Pictures are included to be displayed to show the end user what a shape looks like.
